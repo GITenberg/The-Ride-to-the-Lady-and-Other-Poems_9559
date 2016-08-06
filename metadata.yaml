@@ -1,0 +1,25 @@
+_repo: The-Ride-to-the-Lady-and-Other-Poems_9559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cone, Helen Gray
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '3090'
+    url: http://www.gutenberg.org/2009/agents/3090
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Gray_Cone
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+title: The Ride to the Lady, and Other Poems
+url: http://www.gutenberg.org/ebooks/9559
