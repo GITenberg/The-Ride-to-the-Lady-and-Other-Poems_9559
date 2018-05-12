@@ -1,5 +1,8 @@
 _repo: The-Ride-to-the-Lady-and-Other-Poems_9559
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cone, Helen Gray
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3090
     wikipedia: http://en.wikipedia.org/wiki/Helen_Gray_Cone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9559#The-Ride-to-the-Lady-and-Other-Poems
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
